@@ -30,3 +30,18 @@ Tugas PBO array dan ArrayList di Java.
   * Ukurannya dinamis, jadi rekening nasabah bisa ditambah tanpa perlu menetapkan batas maksimal di awal.  
   * Tidak perlu variabel counter manual karena sudah ada fungsi bawaan ".add()" untuk memasukkan data dan ".size()" untuk menghitung total rekening.  
   * Mengambil data rekening menggunakan fungsi ".get(index)".
+---
+
+## Output
+* Total Registered Customers: 2
+
+* Customer: Caylazefa Gracia
+* Number of Accounts: 1
+* Account Number: 1001
+* Account Balance: 400000.0
+
+* Customer: Cayla Ario
+* Number of Accounts: 1
+* Account Number: 1002
+* Account Balance: 700000.0
+
