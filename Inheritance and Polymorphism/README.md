@@ -38,3 +38,17 @@ Tugas PBO yang menerapkan inheritance, overriding sebagai bentuk polymorphism, d
   * Variabel seperti "side", "radius", dan "height" diatur menjadi "private" agar tidak bisa diubah secara sembarangan dari luar class.
 
 ---
+
+## Output
+SQUARE
+Shape Color: Purple
+Square Area: 225.0
+
+CIRCLE
+Shape Color: Yellow
+Circle Area: 153.86
+
+CYLINDER
+Shape Color: Blue
+Circle Area: 615.44
+Cylinder Volume: 12308.800000000001
