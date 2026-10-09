@@ -1,5 +1,5 @@
 # Array dan ArrayList
-Tugas PBO untuk melihat perbedaan penggunaan array biasa dan ArrayList di Java.
+Tugas PBO array dan ArrayList di Java.
 
 ---
 
@@ -9,7 +9,7 @@ Tugas PBO untuk melihat perbedaan penggunaan array biasa dan ArrayList di Java.
   Menyimpan nomor rekening dan saldo. File ini mengatur proses transaksi seperti setor uang melalui method "deposit" dan tarik tunai melalui method "withdraw".
 
 * **Customer.java**  
-  Menyimpan nama nasabah. Di class ini, daftar rekening disimpan menggunakan "ArrayList" agar satu nasabah bisa memili lebih dari satu rekening tanpa harus di tentukan terlebih dahulu batasannya.
+  Menyimpan nama nasabah. Class ini menyimpan daftar rekening menggunakan "ArrayList" agar satu nasabah bisa memili lebih dari satu rekening tanpa harus di tentukan terlebih dahulu batasannya.
 
 * **Bank.java**  
   Mengelola daftar seluruh nasabah. Class ini menggunakan "array" dengan kapasitas yang dibatasi maksimal 10 orang nasabah.
