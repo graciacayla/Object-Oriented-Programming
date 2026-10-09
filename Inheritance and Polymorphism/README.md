@@ -40,6 +40,8 @@ Tugas PBO yang menerapkan inheritance, overriding sebagai bentuk polymorphism, d
 ---
 
 ## Output
+
+<pre>
 SQUARE
 Shape Color: Purple
 Square Area: 225.0
@@ -52,3 +54,4 @@ CYLINDER
 Shape Color: Blue
 Circle Area: 615.44
 Cylinder Volume: 12308.800000000001
+</pre>
